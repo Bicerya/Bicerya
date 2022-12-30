@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bicerya
-- 👀 I’m interested in Cybersecurity and bug bounties
-- 🌱 I’m currently learning software development and Cybersecurity
-- 💞️ I’m looking to collaborate on Cybersecurity and bug bounties
+- 👋 Hi, I’m Ernesto Garcia Lechuga AKA @Bicerya
+- 👀 I’m interested on software development and app creation
+- 🌱 I’m currently learning software development and web creation
+- 💞️ I’m looking to collaborate on creation of new software
 - 📫 How to reach me twitter.com/Bicerya_
 
 <!---
